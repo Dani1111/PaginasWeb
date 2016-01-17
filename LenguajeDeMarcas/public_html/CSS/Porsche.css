@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-nov-2015, 12:07:15
+    Author     : dam1
+*/
+article{
+    background-color: teal;
+    border: solid darkslategrey;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+.div2{
+    font-size: 400%;
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.div3{
+    font-size: 200%;
+    background-color: darkslategrey;
+    border: solid darkslategrey;
+    color: white; padding-left: 5px;
+}
+.div4{
+    background-color: teal;
+    border: solid darkslategrey;
+    font-size: 100%;
+    padding-left: 5px;
+}
+.div5{
+    background-color: teal;
+    border: solid darkslategrey;
+    font-size: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 12px; 
+}
+.container-fluid{
+    background-color: darkslategrey;
+    padding: 15px;
+    padding-bottom: 263px; 
+}
+.div6{
+    background-color: darkgrey;
+    padding: 15px;
+}

@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-nov-2015, 11:56:52
+    Author     : dam1
+*/
+.col-sm-12{
+    text-align: center
+}
+ul{
+    border-right-width: 5px;
+    -moz-border-image: url(Imagen/1.jpg) 5px repeat;
+    -webkit-border-image: url(Imagen/1.jpg)5 repeat;
+    -o-border-image: url(Imágenes/coche.jpg)5 repeat;
+    border-image: url(Imágenes/coche.jpg)5 repeat repeat;  
+}
+.col-sm-7{
+    background-color: black;
+    color: white;
+    font-size:200%;
+    text-align: left; 
+}
+.col-sm-7_1{
+    color: black;
+    padding-top: 20px;
+}
+.col-sm-7_2{
+    padding-top: 150px;
+    text-align: right;
+}
